@@ -9,20 +9,18 @@ I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://www.labcenter.com/"><img align="left" alt="React" title="React" width="21px" src="https://en.wikipedia.org/wiki/Proteus_Design_Suite#/media/File:Proteus_Design_Suite_Atom_Logo.png" /></a>
+  <a href="https://www.labcenter.com/"><img align="left" alt="React" title="React" width="21px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" /></a>
   <br>
   <br>
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/v1n010801">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v1n010801&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v1n010801&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ibnucholdun">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibnucholdun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnucholdun&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/kevin-pratama-sinaga-1b084a1b8/">LinkedIn</a>
-- <a href="https://kevinpratamasinaga.my.id/">kevinpratamasinaga.my.id</a>
+- <a href="https://www.linkedin.com/in/ibnu-choldun-19904322a">LinkedIn</a>
 - kevinpratamaoke@gmail.com
-- <a href="https://www.instagram.com/v1n.css/">Instagram</a>
