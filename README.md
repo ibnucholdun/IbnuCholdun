@@ -24,6 +24,8 @@ I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
 </a>
 </p>
 
+<a href="https://github.com/ibnucholdun/github-readme-activity-graph"><img alt="Ibnu Choldun Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&hide_border=true" /></a>
+
 ### Reach me on
 - <a href="https://www.linkedin.com/in/ibnu-choldun-19904322a">LinkedIn</a>
 - ibnucholdun023@gmail.com
