@@ -8,7 +8,9 @@ I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
 ### Tech Stack
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="VScode" title="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30px"/> </a> 
+  <a href="#"><img align="left" alt="HTML" title="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" /></a>
+  <a href="#"><img align="left" alt="CSS" title="CSS" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> </a> 
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://www.labcenter.com/"><img align="left" alt="Proteus" title="Proteus" width="30px" src="https://2.bp.blogspot.com/-XsaZsMUD8Pg/WPR6kVhxo8I/AAAAAAAAAhw/xSImpQyf2sErYbQoDtswpwbWyLWaoxMaQCLcB/s1600/logo%2Bproteus.jpg" /></a>
