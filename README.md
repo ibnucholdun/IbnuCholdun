@@ -1,3 +1,10 @@
+<a href="https://github.com/ibnucholdun/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ibnucholdun">
+</a>
+<a href="https://github.com/ibnucholdun?tab=followers">
+  <img src="https://img.shields.io/github/followers/ibnucholdun?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
 ### Hi! 👋 I'm Ibnu.
 
 I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
@@ -26,8 +33,15 @@ I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
 </a>
 </p>
 
-<a href="https://github.com/ibnucholdun/github-readme-activity-graph"><img alt="Ibnu Choldun Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ibnucholdun/github-readme-activity-graph"><img alt="Ibnu Choldun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/ibnu-choldun-19904322a">LinkedIn</a>
-- ibnucholdun023@gmail.com
+### Connect With Me
+<a href="https://www.linkedin.com/in/ibnucholdun">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
+</a>
+<a href = "https://www.instagram.com/ibnu.choldun15/">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPGLhVkdhNCkRkvhddpQbPsqhrjDJKjsjtnhzWCdcHHfCLdQtxhFVCVLHdKVwLrFvdPg">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
