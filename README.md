@@ -38,7 +38,7 @@ I'm a passionate Full Stack Developer from Indonesia.
 </a>
 </p>
 
-<a href="https://github.com/ibnucholdun/github-readme-activity-graph"><img alt="Ibnu Choldun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Ibnu Choldun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/ibnucholdun">
