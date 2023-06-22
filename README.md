@@ -5,23 +5,28 @@
   <img src="https://img.shields.io/github/followers/ibnucholdun?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
-### Hi! 👋 I'm Ibnu.
+<h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Ibnu Choldun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
+I'm a passionate Full Stack Developer from Indonesia.
 - 🔭 I’m currently studying on <a href="https://unsika.ac.id/">Universitas Singaperbangsa Karawang</a>
-- 🌱 I’m learning about Web Developer & Electrical Engineering, 
+- 🌱 I’m learning about Frontend Web & Backend, 
 - 📫 How to reach me: ibnucholdun023@gmail.com
 
 ### Tech Stack
 
-<a href="https://code.visualstudio.com/"><img align="left" alt="VScode" title="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-  <a href="#"><img align="left" alt="HTML" title="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" /></a>
-  <a href="#"><img align="left" alt="CSS" title="CSS" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> </a> 
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://www.labcenter.com/"><img align="left" alt="Proteus" title="Proteus" width="30px" src="https://2.bp.blogspot.com/-XsaZsMUD8Pg/WPR6kVhxo8I/AAAAAAAAAhw/xSImpQyf2sErYbQoDtswpwbWyLWaoxMaQCLcB/s1600/logo%2Bproteus.jpg" /></a>
-    <a href="https://www.arduino.cc/en/software"><img align="left" alt="ArduinoIDE" title="ArduinoIDE" width="30px" src="https://www.nesabamedia.com/wp-content/uploads/2019/07/Arduino-IDE-Logo-1.png" /></a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   <br>
   <br>
   
@@ -42,6 +47,6 @@ I'm a passionate Full Stack Developer & Electrical Engineering from Indonesia.
 <a href = "https://www.instagram.com/ibnu.choldun15/">
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
-<a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPGLhVkdhNCkRkvhddpQbPsqhrjDJKjsjtnhzWCdcHHfCLdQtxhFVCVLHdKVwLrFvdPg">
+<a href = "mailto:ibnucholdun023@gmail.com">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
