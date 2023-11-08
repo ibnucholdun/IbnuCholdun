@@ -8,8 +8,8 @@
 <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Ibnu Choldun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 I'm a passionate Full Stack Developer from Indonesia.
-- 🔭 I’m currently studying on <a href="https://unsika.ac.id/">Universitas Singaperbangsa Karawang</a>
-- 🌱 I’m learning about Frontend Web & Backend, 
+- 🔭 I’m fresh graduated on <a href="https://unsika.ac.id/">Universitas Singaperbangsa Karawang</a>
+- 🌱 I’m learning about Fullstack Web Development, 
 - 📫 How to reach me: ibnucholdun023@gmail.com
 
 ### Tech Stack
@@ -18,12 +18,17 @@ I'm a passionate Full Stack Developer from Indonesia.
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJs](https://img.shields.io/badge/NextJs-404D59?style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
