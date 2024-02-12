@@ -17,6 +17,9 @@ I'm a passionate Full Stack Developer from Indonesia.
 [![Languages](https://skillicons.dev/icons?i=html,css,js,react,nodejs,redux,nextjs,tailwind,bootstrap,jest,postgresql,mongodb,firebase,prisma,expressjs,github,git,figma)](https://skillicons.dev)
   <br>
   <br>
+
+### Codewars Stats
+![Codewars](https://github.r2v.ch/codewars?user=ibnucholdun&stroke=%23BB432C)
   
 ### Github Statistic
 <p align="left">
