@@ -18,8 +18,6 @@ I'm a passionate Full Stack Developer from Indonesia.
   <br>
   <br>
 
-### Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=ibnucholdun&stroke=%23BB432C)
   
 ### Github Statistic
 <p align="left">
